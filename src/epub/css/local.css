@@ -1,8 +1,80 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+cite{
+	display: block;
+	font-style: italic;
+	text-align: right;
+}
+
+table{
+	margin: 1em auto;
+	font-variant-numeric: tabular-nums;
+}
+
+span.letter{
+	font-variant: all-small-caps;
+}
+
+table tr td{
+	padding: 0 .5em;
+	vertical-align: top;
+}
+
+table tr.total td{
+	border-top: 1px solid;
+}
+
+table td:first-child{
+	max-width: 75%;
+}
+
+table td:nth-child(2){
+	text-align: right;
+}
+
+table + p{
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:verse"] p,
+*[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:verse"] p + p,
+*[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+*[epub|type~="z3998:verse"] p span,
+*[epub|type~="z3998:poem"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:verse"] p span.i1{
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:verse"] br,
+*[epub|type~="z3998:poem"] br{
+	display: none;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+	font-variant: normal;
+	font-weight: normal;
+	font-style: italic;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
-*[lang]:not(html){
+*[lang]:not(html),
+abbr{
 	background: #C0C0C0;
 }
