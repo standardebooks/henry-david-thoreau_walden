@@ -71,10 +71,3 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 	font-style: italic;
 }
-
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html),
-abbr{
-	background: #C0C0C0;
-}
