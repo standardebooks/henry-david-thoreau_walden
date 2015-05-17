@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-david-thoreau/walden</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-14T18:11:42Z</meta>
+		<meta property="dcterms:modified">2015-05-17T23:23:36Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -42,7 +42,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/205</dc:source>
 		<dc:source>https://archive.org/stream/waldenorlifeinwo1854thor</dc:source>
-		<meta property="se:word-count">106958</meta>
+		<meta property="se:word-count">106959</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Walden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_walden</meta>
 		<dc:creator id="author">Henry David Thoreau</dc:creator>
