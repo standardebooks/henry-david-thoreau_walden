@@ -71,3 +71,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 	font-style: italic;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
