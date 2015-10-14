@@ -75,3 +75,7 @@ span[epub|type~="subtitle"]{
 abbr.name{
 	white-space: nowrap;
 }
+
+*[xml|lang]{
+	font-style: italic;
+}
