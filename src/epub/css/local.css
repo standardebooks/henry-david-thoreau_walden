@@ -55,8 +55,9 @@ table + p{
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:verse"] p span.i1{
-	text-indent: 0;
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
 }
 
 *[epub|type~="z3998:verse"] br,
