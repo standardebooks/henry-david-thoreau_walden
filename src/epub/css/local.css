@@ -12,10 +12,6 @@ table{
 	font-variant-numeric: tabular-nums;
 }
 
-span.letter{
-	font-variant: all-small-caps;
-}
-
 table tr td{
 	padding: 0 .5em;
 	vertical-align: top;
