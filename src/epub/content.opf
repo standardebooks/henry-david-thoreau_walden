@@ -87,6 +87,7 @@
 		<item href="text/former-inhabitants-and-winter-visitors.xhtml" id="former-inhabitants-and-winter-visitors.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/higher-laws.xhtml" id="higher-laws.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/house-warming.xhtml" id="house-warming.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/reading.xhtml" id="reading.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/solitude.xhtml" id="solitude.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sounds.xhtml" id="sounds.xhtml" media-type="application/xhtml+xml"/>
@@ -103,6 +104,7 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="economy.xhtml"/>
 		<itemref idref="where-i-lived-and-what-i-lived-for.xhtml"/>
 		<itemref idref="reading.xhtml"/>
