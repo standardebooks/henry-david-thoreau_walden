@@ -72,6 +72,6 @@ abbr.name{
 	white-space: nowrap;
 }
 
-[xml|lang]{
+body [xml|lang]{
 	font-style: italic;
 }
