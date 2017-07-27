@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-david-thoreau/walden</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-21T00:14:36Z</meta>
-		<meta property="se:revision-number">58</meta>
+		<meta property="dcterms:modified">2017-07-27T20:26:25Z</meta>
+		<meta property="se:revision-number">59</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,8 +36,8 @@
 		<dc:description id="description">Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is one of the more famous transcendentalist tracts in modern American literature.  First published in 1854, &lt;i&gt;Walden&lt;/i&gt; is an account of Thoreau’s famous experiment in solitude: spending over two years alone in a cabin near the wilderness.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is broken into sections that meditate on single themes: economy, reading, sounds, solitude, visitors, and so on.  The style is complex, weaving back and forth between simple, home-spun prose and complex allegory, metaphor, and allusion.  This makes &lt;i&gt;Walden&lt;/i&gt; an interesting read because while it may seem accessible on the surface, it’s a book that requires deep and repeated reading to fully appreciate its many complexities.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is one of the more famous transcendentalist tracts in modern American literature. First published in 1854, &lt;i&gt;Walden&lt;/i&gt; is an account of Thoreau’s famous experiment in solitude: spending over two years alone in a cabin near the wilderness.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is broken into sections that meditate on single themes: economy, reading, sounds, solitude, visitors, and so on. The style is complex, weaving back and forth between simple, home-spun prose and complex allegory, metaphor, and allusion. This makes &lt;i&gt;Walden&lt;/i&gt; an interesting read because while it may seem accessible on the surface, it’s a book that requires deep and repeated reading to fully appreciate its many complexities.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
