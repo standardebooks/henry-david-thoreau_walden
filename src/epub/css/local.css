@@ -29,10 +29,6 @@ table td:nth-child(2){
 	text-align: right;
 }
 
-table + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p{
 	text-align: left;
