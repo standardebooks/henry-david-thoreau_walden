@@ -59,9 +59,7 @@ p span.i1{
 span[epub|type~="subtitle"]{
 	display: block;
 	font-size: .75em;
-	font-variant: normal;
 	font-weight: normal;
-	font-style: italic;
 }
 
 abbr.name{
@@ -70,4 +68,12 @@ abbr.name{
 
 body [xml|lang]{
 	font-style: italic;
+}
+
+[epub|type~="z3998:poem"] header p{
+	font-size: 1.25em;
+	margin: 1.5em auto;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
 }
