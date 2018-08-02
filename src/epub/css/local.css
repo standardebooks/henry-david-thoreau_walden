@@ -62,18 +62,21 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 body [xml|lang]{
 	font-style: italic;
 }
 
-[epub|type~="z3998:poem"] header p{
+[epub|type~="z3998:poem"] header{
 	font-size: 1.25em;
-	margin: 1.5em auto;
-	font-weight: bold;
 	font-variant: small-caps;
+	margin-bottom: 1em;
+	margin-top: 3em;
+}
+
+[epub|type~="z3998:poem"] header p{
 	text-align: center;
+}
+
+[epub|type~="z3998:poem"] header p span:first-child{
+	font-weight: bold;
 }
