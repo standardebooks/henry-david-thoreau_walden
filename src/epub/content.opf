@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Walden</dc:title>
 		<meta property="file-as" refines="#title">Walden</meta>
 		<dc:subject id="subject-1">Authors, American -- 19th century -- Biography</dc:subject>
@@ -35,21 +35,25 @@
 		<dc:subject id="subject-4">Natural history -- Massachusetts -- Walden Woods</dc:subject>
 		<dc:subject id="subject-5">Solitude</dc:subject>
 		<dc:subject id="subject-6">Walden Woods (Mass.) -- Social life and customs</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/205</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/205</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/205</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/205</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/205</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/205</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2007100461</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008113510</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108322</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85124673</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008113509</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is one of the more famous transcendentalist tracts in modern American literature. First published in 1854, &lt;i&gt;Walden&lt;/i&gt; is an account of Thoreau’s famous experiment in solitude: spending over two years alone in a cabin near the wilderness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is broken into sections that meditate on single themes: economy, reading, sounds, solitude, visitors, and so on. The style is complex, weaving back and forth between simple, home-spun prose and complex allegory, metaphor, and allusion. This makes &lt;i&gt;Walden&lt;/i&gt; an interesting read because while it may seem accessible on the surface, it’s a book that requires deep and repeated reading to fully appreciate its many complexities.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/205</dc:source>
 		<dc:source>https://archive.org/details/waldenorlifeinwo1854thor</dc:source>
