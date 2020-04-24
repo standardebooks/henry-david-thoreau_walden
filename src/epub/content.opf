@@ -62,7 +62,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Walden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_walden</meta>
 		<dc:creator id="author">Henry David Thoreau</dc:creator>
-		<meta property="file-as" refines="#author">Thoreau, Henry David </meta>
+		<meta property="file-as" refines="#author">Thoreau, Henry David</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_David_Thoreau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095600</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
