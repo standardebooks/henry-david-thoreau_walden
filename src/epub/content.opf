@@ -51,7 +51,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is one of the more famous transcendentalist tracts in modern American literature. First published in 1854, &lt;i&gt;Walden&lt;/i&gt; is an account of Thoreau’s famous experiment in solitude: spending over two years alone in a cabin near the wilderness.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is one of the more famous transcendentalist tracts in modern American literature. First published in 1854, &lt;i&gt;Walden&lt;/i&gt; is an account of &lt;a href="https://standardebooks.org/ebooks/henry-david-thoreau"&gt;Thoreau’s&lt;/a&gt; famous experiment in solitude: spending over two years alone in a cabin near the wilderness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is broken into sections that meditate on single themes: economy, reading, sounds, solitude, visitors, and so on. The style is complex, weaving back and forth between simple, home-spun prose and complex allegory, metaphor, and allusion. This makes &lt;i&gt;Walden&lt;/i&gt; an interesting read because while it may seem accessible on the surface, it’s a book that requires deep and repeated reading to fully appreciate its many complexities.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
