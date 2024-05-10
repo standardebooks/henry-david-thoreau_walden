@@ -56,7 +56,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/205</dc:source>
 		<dc:source>https://archive.org/details/waldenorlifeinwo1854thor</dc:source>
-		<meta property="se:word-count">106990</meta>
+		<meta property="se:word-count">107005</meta>
 		<meta property="se:reading-ease.flesch">59.77</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Walden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_walden</meta>
