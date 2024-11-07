@@ -68,7 +68,7 @@ body [xml|lang]{
 }
 
 [epub|type~="z3998:poem"] header p{
-	font-size: 1.25em;
+	font-size: larger;
 	text-align: center;
 }
 
