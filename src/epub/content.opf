@@ -71,7 +71,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Ivan Ivanovich Shishkin</dc:contributor>
 		<meta property="file-as" refines="#artist">Shishkin, Ivan Ivanovich</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Ива́нович Ши́шкин</meta>
+		<meta property="alternate-script" refines="#artist">Ива́н Ива́нович Ши́шкин</meta>
 		<link href="https://en.wikipedia.org/wiki/Ivan_Shishkin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82119235.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
